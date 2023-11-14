@@ -141,19 +141,19 @@
     </comp>
     <comp lib="0" loc="(690,110)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="EqU"/>
+      <a name="label" val="EqS"/>
     </comp>
     <comp lib="0" loc="(690,140)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="EqS"/>
+      <a name="label" val="EqU"/>
     </comp>
     <comp lib="0" loc="(690,210)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="LTU"/>
+      <a name="label" val="LTS"/>
     </comp>
     <comp lib="0" loc="(690,240)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="LTS"/>
+      <a name="label" val="LTU"/>
     </comp>
     <comp lib="0" loc="(730,170)" name="Tunnel">
       <a name="facing" val="north"/>
