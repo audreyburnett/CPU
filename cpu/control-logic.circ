@@ -110,18 +110,6 @@
     <comp lib="0" loc="(1010,740)" name="Tunnel">
       <a name="label" val="PCSel"/>
     </comp>
-    <comp lib="0" loc="(1020,830)" name="Tunnel">
-      <a name="label" val="PCSel"/>
-    </comp>
-    <comp lib="0" loc="(1020,930)" name="Tunnel">
-      <a name="label" val="PCSel"/>
-    </comp>
-    <comp lib="0" loc="(1030,1190)" name="Tunnel">
-      <a name="label" val="PCSel"/>
-    </comp>
-    <comp lib="0" loc="(1060,1020)" name="Tunnel">
-      <a name="label" val="PCSel"/>
-    </comp>
     <comp lib="0" loc="(110,3410)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="OP"/>
@@ -1121,9 +1109,6 @@
     <comp lib="0" loc="(930,910)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="twentyeight"/>
-    </comp>
-    <comp lib="0" loc="(980,1100)" name="Tunnel">
-      <a name="label" val="PCSel"/>
     </comp>
     <comp lib="1" loc="(1000,830)" name="AND Gate"/>
     <comp lib="1" loc="(1000,930)" name="AND Gate"/>
