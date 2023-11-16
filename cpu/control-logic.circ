@@ -1150,6 +1150,10 @@
       <a name="label" val="WBSel"/>
       <a name="width" val="2"/>
     </comp>
+    <comp lib="0" loc="(710,1260)" name="Tunnel">
+      <a name="label" val="INDEX"/>
+      <a name="width" val="6"/>
+    </comp>
     <comp lib="0" loc="(730,210)" name="Pin">
       <a name="appearance" val="classic"/>
       <a name="facing" val="south"/>
@@ -1162,10 +1166,6 @@
       <a name="facing" val="north"/>
       <a name="label" val="ALUSel"/>
       <a name="width" val="4"/>
-    </comp>
-    <comp lib="0" loc="(760,1290)" name="Tunnel">
-      <a name="label" val="INDEX"/>
-      <a name="width" val="6"/>
     </comp>
     <comp lib="0" loc="(810,1210)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -1864,7 +1864,8 @@
     <wire from="(620,480)" to="(620,620)"/>
     <wire from="(620,620)" to="(660,620)"/>
     <wire from="(640,230)" to="(650,230)"/>
-    <wire from="(670,1260)" to="(730,1260)"/>
+    <wire from="(670,1260)" to="(710,1260)"/>
+    <wire from="(670,1270)" to="(690,1270)"/>
     <wire from="(670,210)" to="(670,230)"/>
     <wire from="(680,500)" to="(700,500)"/>
     <wire from="(680,530)" to="(700,530)"/>
@@ -1875,8 +1876,6 @@
     <wire from="(680,680)" to="(700,680)"/>
     <wire from="(680,710)" to="(700,710)"/>
     <wire from="(690,230)" to="(710,230)"/>
-    <wire from="(730,1260)" to="(730,1290)"/>
-    <wire from="(730,1290)" to="(760,1290)"/>
     <wire from="(730,210)" to="(730,230)"/>
     <wire from="(750,230)" to="(790,230)"/>
     <wire from="(800,370)" to="(800,820)"/>
